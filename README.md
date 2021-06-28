@@ -1,19 +1,7 @@
 # Sistem Informasi Poliklinik
 
-<h2>Screenshot</h2>
-<p>Light Theme</p>
-<p align="center">
-  <img src="screenshot/lighttheme.png" width="500"/>
-</p>
-<p>Dark Theme</p>
-<p align="center">
-  <img src="screenshot/darktheme.png" width="500"/>
-</p>
-<p>Login Page 1</p>
-<p align="center">
-  <img src="screenshot/login.png" width="500"/>
-</p>
-<p>Login Page 2</p>
-<p align="center">
-  <img src="screenshot/login2.png" width="500"/>
-</p>
+<h2>UAS Pemrograman WEB</h2>
+<h4>Program Studi Sistem Informasi</h4>
+<h4>Universitas Muria Kudus</h4>
+<p>Nama : Erbilanto Setyadi</p>
+<p>NIM : 201953050 </p>
